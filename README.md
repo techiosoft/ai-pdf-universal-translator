@@ -4,12 +4,12 @@ This API allows users to translate PDF documents into a specified target languag
   
 ## Architecture Overview  
 
-![Alt Text](assets\architecture.png)
+![Alt Text](assets/architecture.png)
 
   
 ## Implementation Steps  
   
-![Alt Text](assets\implementation_steps.png)
+![Alt Text](assets/implementation_steps.png)
   
 ## Technologies Used  
   
